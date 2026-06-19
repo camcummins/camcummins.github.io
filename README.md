@@ -1,7 +1,9 @@
 # camcummins.github.io
 
-<h1>Academic Projects/Repositories</h1>
+<h1>Academic Projects and Repositories</h1>
 <br>
+
+Temporal Determinacy and Negative Affordance in Wii Sports Resort (2009)
 
 <a href="https://camcummins.github.io/ktane/">Creating Chaos: Musical Distraction and Team Unity in Keep Talking and Nobody Explodes (2015)</a>
 
